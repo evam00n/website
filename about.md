@@ -2,23 +2,17 @@
 layout: default
 title: About
 ---
-[[Bio em português]](sobre)
+[[Biografía en español]](sobre)
 
 # About
 <img class="avatar" src="assets/images/bio.jpeg" style="float: left; padding-right: 10px;" width="300">
 
-Oi! My name is Giovana. I hold a Bachelor's degree in Computer Science from
-[Universidade Federal
-de São Carlos](www.dcomp.sor.ufscar.br) (UFSCar Sorocaba) and a Master's degree
-in Computer Science from
-Universidade de São Paulo (USP), where I was part of the
-[COMPMUS](https://compmus.ime.usp.br/) group and advised by [Prof. Dr. Marcelo
-Queiroz](https://www.ime.usp.br/~mqz/). I'm a PhD Candidate in
-Computer Science at New
-York University (NYU). I am part of the
-Music and Audio Research Laboratory, also known as
-[MARL](https://steinhardt.nyu.edu/marl), where I am advised by
-[Dr. Magdalena Fuentes](https://magdalenafuentes.github.io/).
+Hi! My name is Eva Luna and I'm a PhD Candidate in [Rehabilitation Sciences at New York University (NYU)] 
+(https://steinhardt.nyu.edu/degree/phd-rehabilitation-sciences) working with [Dr. Pablo Ripollés] 
+(https://www.ripolleslab.com/) and [Dr. Adeen Flinker] (https://flinkerlab.org/). 
+I hold a B.S. in Human and Animal Biotechnology from the
+[Polytechnic University of Valencia (UPV)](https://www.upv.es/) and a M.S.
+in Behavioral and Cognitive Neuroscience from [Sorbonne University (SU)] (https://www.sorbonne-universite.fr/). 
 
 My main research interests are music information retrieval (MIR), machine
 learning, deep learning and explainability. I am currently interested in
