@@ -1,6 +1,6 @@
-title: "Giovana Morais"
-author: "Giovana Morais"
-email: giovana.vmorais@gmail.com
+title: "Eva Luna Muñoz Vidal"
+author: "Eva Luna Muñoz Vidal"
+email: eva.luna@nyu.edu
 
 permalink: /:slug.html
 
@@ -22,9 +22,7 @@ navigation:
    link: /about
  - name: Projects
    link: /projects
- # - name: CV
- #   link: /resume
+ - name: CV
+   link: /resume
  - name: Research
    link: /publications
- - name: Blog
-   link: /blog
